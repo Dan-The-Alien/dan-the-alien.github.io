@@ -75,6 +75,10 @@
         {
             "name": "ethxn's omnisette server :3",
             "address": "https://omni.ethxn.xyz"
+        },
+        {
+            "name": "Stikstore server 3",
+            "address": "https://ani3.stikstore.app/"
         }
     ],
     "cache": "https://servers.sidestore.io/servers.json.hash"
